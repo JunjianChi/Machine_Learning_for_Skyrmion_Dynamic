@@ -8,12 +8,6 @@ Welcome! This repository presents a project exploring the dynamics of magnetic s
 
 Click the image below to view the full research poster (PDF):
 
-<p align="center">
-  <a href="https://github.com/JunjianChi/Machine_Learning_for_Skyrmion_Dynamic/blob/main/APRIL_Poster_final_Chi.pdf">
-    <img src="https://github.com/JunjianChi/Machine_Learning_for_Skyrmion_Dynamic/raw/main/Report/poster-thumbnail.png" alt="Click to view poster" width="600"/>
-  </a>
-</p>
-
 > **📎 [View full poster (PDF)](https://github.com/JunjianChi/Machine_Learning_for_Skyrmion_Dynamic/blob/main/APRIL_Poster_final_Chi.pdf)**
 
 ---
@@ -43,4 +37,4 @@ Magnetic skyrmions are topological spin textures with strong potential for futur
 
 ---
 
-> 🛠 This project was developed during the April AI Internship 2025, UCL Bioelectronic Department.
+> 🛠 This project was developed during the April AI Internship 2025

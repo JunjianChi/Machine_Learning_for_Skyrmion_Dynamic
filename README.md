@@ -12,16 +12,6 @@ Click the image below to view the full research poster (PDF):
 
 ---
 
-## 📁 Repository Structure
-
-.
-├── Comsol_Simulation/ # COMSOL models and .mph files
-├── Report/ # Additional reports or figures (e.g., thumbnails)
-├── APRIL_Poster_final_Chi.pdf # Final research poster
-├── mumax3.ipynb # MuMax3 GPU-based simulation notebook
-└── README.md # You're here!
----
-
 ## 🧠 Project Summary
 
 Magnetic skyrmions are topological spin textures with strong potential for future memory and logic devices. This project aims to:
